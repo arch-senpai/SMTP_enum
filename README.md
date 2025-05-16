@@ -9,7 +9,8 @@ SMTP_enum is a tool for enumerating SMTP servers and finding valid email address
 - Supports common enumeration techniques
 - Easy to use CLI interface
 
-- 
+## Purpose
+- Getting valid emails for phishing attacks
 
 
 ## Installation
