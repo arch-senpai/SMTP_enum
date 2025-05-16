@@ -16,11 +16,9 @@ SMTP_enum is a tool for enumerating SMTP servers and finding valid email address
 - NMAP
 
 ## Other tools that can be used 
-- Telnet
 - Netscan Tool Pro
 - Metasploit
-- 
-
+  
 
 ## Installation
 
